@@ -1,0 +1,12 @@
+/Users/dwivehi/Documents/Work/XamarinSample/XFListviewPagination/XFListviewPagination/bin/Debug/netstandard2.0/XFListviewPagination.deps.json
+/Users/dwivehi/Documents/Work/XamarinSample/XFListviewPagination/XFListviewPagination/bin/Debug/netstandard2.0/XFListviewPagination.dll
+/Users/dwivehi/Documents/Work/XamarinSample/XFListviewPagination/XFListviewPagination/bin/Debug/netstandard2.0/XFListviewPagination.pdb
+/Users/dwivehi/Documents/Work/XamarinSample/XFListviewPagination/XFListviewPagination/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/dwivehi/Documents/Work/XamarinSample/XFListviewPagination/XFListviewPagination/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/dwivehi/Documents/Work/XamarinSample/XFListviewPagination/XFListviewPagination/obj/Debug/netstandard2.0/Views/EmpListView.xaml.g.cs
+/Users/dwivehi/Documents/Work/XamarinSample/XFListviewPagination/XFListviewPagination/obj/Debug/netstandard2.0/XFListviewPagination.AssemblyInfoInputs.cache
+/Users/dwivehi/Documents/Work/XamarinSample/XFListviewPagination/XFListviewPagination/obj/Debug/netstandard2.0/XFListviewPagination.AssemblyInfo.cs
+/Users/dwivehi/Documents/Work/XamarinSample/XFListviewPagination/XFListviewPagination/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/dwivehi/Documents/Work/XamarinSample/XFListviewPagination/XFListviewPagination/obj/Debug/netstandard2.0/XFListviewPagination.dll
+/Users/dwivehi/Documents/Work/XamarinSample/XFListviewPagination/XFListviewPagination/obj/Debug/netstandard2.0/XFListviewPagination.pdb
+/Users/dwivehi/Documents/Work/XamarinSample/XFListviewPagination/XFListviewPagination/obj/Debug/netstandard2.0/XFListviewPagination.csprojAssemblyReference.cache
